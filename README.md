@@ -1,0 +1,1 @@
+This is Jenny's first git project in Odin Project!
